@@ -18,6 +18,11 @@ const users = [
     position: "President",
     img: "img/user/profile-licat.png",
   },
+  {
+    id: 1,
+    username: "김현석",
+    img: "img/user/profile-max.png",
+  },
 ];
 
 const localDataUsing = false; // 로컬 데이터 사용 여부
