@@ -20,6 +20,10 @@
         "download_url": "/blog/[20240505]_[논문심사시스템 아키텍처]_[backend]_[ice_gs_thesis_arch.png]_[마크다운 양식입니다. 참고하여 블로그 글을 작성해주세요. 각 언어별 하이라이팅도 지원합니다.]_[].md"
     },
     {
+        "name": "[2026-02-21]_[서버 전면 장애-회고]_[incident]_.md",
+        "download_url": "/blog/[2026-02-21]_[서버 전면 장애-회고]_[incident]_.md"
+    },
+    {
         "name": "[date]_[title]_[category]_[thumnail]_[description]_[author].md",
         "download_url": "/blog/[date]_[title]_[category]_[thumnail]_[description]_[author].md"
     }
