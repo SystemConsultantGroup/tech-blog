@@ -24,6 +24,10 @@
     "download_url": "/blog/[20260221]_[서버 전면 장애 회고]_[infra]_[test_1.jpg]_[서버 장애 회고 글]_[].md"
   },
   {
+    "name": "[20260223]_[꽉 찬 디스크가 초래할 수 있는 최악의 일]_[infra]_[disk_full_cartoon.png]_[꽉 찬 디스크는 어떤 위험을 불러올까]_[].md",
+    "download_url": "/blog/[20260223]_[꽉 찬 디스크가 초래할 수 있는 최악의 일]_[infra]_[disk_full_cartoon.png]_[꽉 찬 디스크는 어떤 위험을 불러올까]_[].md"
+  },
+  {
     "name": "[date]_[title]_[category]_[thumnail]_[description]_[author].md",
     "download_url": "/blog/[date]_[title]_[category]_[thumnail]_[description]_[author].md"
   }
